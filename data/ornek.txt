@@ -1,0 +1,6 @@
+Bu bir örnek dosyadır.
+Yedekleme sistemini test etmek için oluşturulmuştur.
+
+deneme 2
+
+Tarih: 05.06.2024 

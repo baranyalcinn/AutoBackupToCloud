@@ -1,0 +1,27 @@
+# Hassas bilgi içeren dosyalar
+client_secret.json
+*_token.json
+.gdrive_token.json
+
+# Yedek dosyaları
+backup_*.tar.gz
+
+# Loglar
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+aws-cli-venv/
+env/
+venv/
+ENV/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini 
